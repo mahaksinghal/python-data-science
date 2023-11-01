@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+opencv-contrib-python
+pillow
+streamlit
+nicegui
+scipy
+nbformat
+openpyxl
+# pip install -r "Data Analysis\requirements.txt"
